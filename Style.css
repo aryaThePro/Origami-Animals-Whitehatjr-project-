@@ -1,0 +1,12 @@
+h1{
+    background-color:aqua; 
+    color:brown
+}
+
+body{
+    background-color:coral
+}
+
+.item{
+    display:flex
+}
